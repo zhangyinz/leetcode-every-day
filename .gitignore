@@ -1,0 +1,14 @@
+.*
+!.gitignore
+*.iml
+*.log
+*.ipr
+*.exec
+*.class
+
+target
+jar
+/*/src/main/resources/static/
+/ui/dist/
+
+logs
